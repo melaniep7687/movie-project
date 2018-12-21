@@ -2,6 +2,7 @@ h1,h2{
     text-align: center;
     color: #FF00FF;
     font-family:"Charmonman", "cursive";
+    font-weight: bolder;
     
 
 }
@@ -12,8 +13,12 @@ body{
 h1{
       background-image: url("tropical-tree-island.jpg");  
       padding:100px;
-      opacity:0.5;
-      color: #FF00FF;
+      /*color: #FF00FF;*/
+      /*font-weight: bold;*/
+      opacity:.5;
       
 }
-   
+.wrapper{
+    color:#FF00FF;
+}
+ 
