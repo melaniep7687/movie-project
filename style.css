@@ -1,6 +1,6 @@
 h1,h2{
     text-align: center;
-    color: #FF00FF;
+    color: #8B008B;
     font-family:"Charmonman", "cursive";
     
 
@@ -10,10 +10,12 @@ body{
     font-family: 'Catamaran', sans-serif;
 }
 h1{
-      background-image: url("tropical-tree-island.jpg");  
+      background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('tropical-tree-island.jpg');
+      /*background-image: url("tropical-tree-island.jpg");  */
+      z-index: -1;
       padding:100px;
-      opacity:0.5;
-      color: #FF00FF;
+      /*opacity:0.5;*/
+      color: #8B008B;
       
 }
    
