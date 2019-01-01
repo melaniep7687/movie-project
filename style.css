@@ -11,6 +11,7 @@ h2
 
 body {
     font-family: 'Catamaran', sans-serif;
+    float: center; 
 }
 
 h1 {
@@ -35,6 +36,4 @@ h1 {
 
 .Form {
     background:lightblue;
-.wrapper{
-    /*color:#FF00FF;*/
 }
